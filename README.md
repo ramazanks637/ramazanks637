@@ -1,14 +1,14 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-<h1 align="center">Hi 👋, I'm Sinan</h1>
+<h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">A Software Engineer from Turkey</h3>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats"></a>
-<a href="mailto:adematicis41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adematicis41@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/adematici/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adematici-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/adematiciii/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adematiciii-black?style=flat-square&logo=instagram"></a>
+<img src="https://komarev.com/ghpvc/?username=ramazanks637&color=green" alt="ramazanks637 :: Profile Stats"></a>
+<a href="mailto:ramazanks637@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ramazanks637@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ramazankose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ramazankose-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/r4m4z4n.ks/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-r4m4z4n.ks-black?style=flat-square&logo=instagram"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -17,8 +17,8 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramazanks637&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazanks637&layout=compact&theme=tokyonight" height="180">
   
 </p>
 

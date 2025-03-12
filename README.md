@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=ramazanks637&color=green" alt="ramazanks637 :: Profile Stats"></a>
 <a href="mailto:ramazanks637@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ramazanks637@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ramazankose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ramazankose-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/r4m4z4n.ks/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-r4m4z4n.ks-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ramazankose.dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ramazankose.dev-black?style=flat-square&logo=instagram"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
